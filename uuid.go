@@ -1,4 +1,4 @@
-package uuid
+package gopkg.hlmpn.dev/uuid
 
 import (
 	"crypto/rand"
